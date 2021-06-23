@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://im6.ezgif.com/tmp/ezgif-6-735c60bf50bf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="./ezgif-6-e43f2545b45c.gif?raw=true" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [Kap](https://getkap.co/).
